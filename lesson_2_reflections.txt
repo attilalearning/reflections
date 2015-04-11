@@ -38,3 +38,13 @@ How do the diagrams help you visualize the branch structure?
     diagram we can track down the parent of each node on the
     branches as well as each parent node of a branch.
 
+What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+
+    The result of merging two branches together is that we will obtain
+    all changes (all features and all work that has been done on both
+    branches) in one place. And we represent a branch merge with arrows
+    pointing to both "parents" because the resulting commit has emerged
+    from two "sources".
+
+
