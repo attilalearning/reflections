@@ -11,3 +11,24 @@
     directory and so, if an auto-update would be performed, I assume I
     would loose my changes?!
 
+#Describe the differences between forks, clones, and branches. When would you use one instead of another?#
+
+    Branches are used when we want to experiment within our project.
+
+    We do clones when we want to "download" a project that is on GitHub or
+    when we want to create a copy of one of our projects locally, to a
+    different location on our own computer.
+
+    And we use fork to copy someone else's project on GitHub (to our own
+    account, still on GitHub). By using fork, we let the original creator of
+    the project know about us having a copy (and also, as I've seen the
+    options on GitHub, we may, later on, push the changes we made to such a
+    project to the original repo on GitHub).
+
+#What is the benefit of having a copy of the last known state of the remote stored locally?#
+
+    When we have the last known state od the remote stored locally, we can
+    check to see the changes and the branches (graph). Then, we can decide
+    if any merging is needed and can proceed if so.
+
+
