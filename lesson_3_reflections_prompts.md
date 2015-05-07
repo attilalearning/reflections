@@ -31,4 +31,15 @@
     check to see the changes and the branches (graph). Then, we can decide
     if any merging is needed and can proceed if so.
 
+#How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?#
+
+    Should there be no GitHub, we would invent one! :D
+
+    Well, without GitHub, we could perhaps use zip files & ftp servers?
+    This would take more time since we would need to pack, upload, then
+    someone else would need to download, unpack, check for changes, do
+    the merging etc. All mergings into the master or main stream would
+    need to be done by the code's owner? I can't think of anything that
+    would be easier by not having GitHub.
+
 
