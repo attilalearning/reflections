@@ -42,4 +42,13 @@
     need to be done by the code's owner? I can't think of anything that
     would be easier by not having GitHub.
 
+#When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?#
+
+    When merging a new feature in a collaborative project and where more
+    changes have been made at the same time, it's wise to try and merge
+    the change into a separate branch fiirst, sorting out all the conflicts
+    locally and presenting the "merged" node or version on GitHub so that
+    the owner can decide easily if he/she would allow the merge into his/
+    her master branch (since the merge has already been made, there should
+    be no trouble, no conflict, only a decision is left to be made).
 
